@@ -15,13 +15,13 @@ TagManager:
   - 
   - BG1
   - BG2
-  - Platforms
-  - Player
-  - OtherObjects
-  - FG1
-  - FG2
-  - 
-  - 
+  - Platforms1
+  - Platforms2
+  - Objects1
+  - Objects2
+  - ObjectsPersistent
+  - PlayerW1
+  - PlayerW2
   - 
   - 
   - 
@@ -47,18 +47,30 @@ TagManager:
   - name: Background2
     uniqueID: 702589457
     locked: 0
-  - name: Platforms
+  - name: Platforms1
     uniqueID: 1736143357
     locked: 0
-  - name: Player
+  - name: Platforms2
     uniqueID: 1845727783
     locked: 0
-  - name: Other
+  - name: Objects1
     uniqueID: 293656143
     locked: 0
-  - name: Foreground1
+  - name: Objects2
     uniqueID: 1279729417
     locked: 0
-  - name: Foreground2
+  - name: ObjectsPersistent
     uniqueID: 2840030403
+    locked: 0
+  - name: Player
+    uniqueID: 4034766143
+    locked: 0
+  - name: 
+    uniqueID: 174509695
+    locked: 0
+  - name: Foreground1
+    uniqueID: 3351742965
+    locked: 0
+  - name: Foreground2
+    uniqueID: 568598387
     locked: 0
